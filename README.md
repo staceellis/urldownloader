@@ -9,7 +9,7 @@ urldownloader
 
 ### Windows installation 
 
-1. To use `urldownloader`, you should create a [Conda environment](https://anaconda.org/)
+1. To use `urldownloader` create a [Conda environment](https://anaconda.org/)
 
 
 2. Open Anaconda Prompt and **Change directory** / Navigate to location of **urldownloader** directory
@@ -24,7 +24,7 @@ urldownloader
 	```
    
 ### Usage Examples
-1. Open Command Line (Anaconda Prompt or Python Prompt). Cd to project Dir. Activate environment.
+1. Open Command Line (Anaconda Prompt) **Change directory** to project location, activate environment.
 	```commandline
 	cd C:\Users\User\scripts\url_downloader
 	conda activate urldownloader
