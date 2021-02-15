@@ -9,15 +9,12 @@ urldownloader
 
 ### Windows installation 
 
-1. To use `urldownloader` create a [Conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-
-
-2. Open Anaconda Prompt and **Change directory** / Navigate to location of **urldownloader** directory
+1. Open Anaconda Prompt and **Change directory** / Navigate to location of **urldownloader** directory.
 	```commandline
 	cd C:\Users\User\scripts\url_downloader
 	```
 
-3. Create a conda environment or virtualenv and activate environment
+2. To use `urldownloader` create and activate an [Conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 	```commandline
 	conda env create -f environment.yml
 	conda activate urldownloader
