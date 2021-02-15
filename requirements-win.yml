@@ -1,0 +1,8 @@
+name: urldownloader
+channels:
+  - anaconda
+dependencies:
+  - python=3.8
+  - pip:
+    - click
+    - pandas
