@@ -36,7 +36,7 @@ url_downloader
 	```
 	e.g
 	```commandline
-	python CLI.py "C:\Users\user\Desktop\BPE-WIL-A_Buldges" "C:\Users\user\Desktop\BPE-WIL-A_Buldges\2020 Conductor Survey Defects.csv"
+	python CLI.py "C:\Users\user\Desktop\Images" "C:\Users\user\Desktop\URLs.csv"
 
 
 
