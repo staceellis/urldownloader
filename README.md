@@ -4,12 +4,12 @@ urldownloader
 
 ## Requirements
 
-1. Install Anaconda [Conda environment](https://anaconda.org/). 
+1. Install [Anaconda](https://docs.anaconda.com/anaconda/install/windows/).
 
 
 ### Windows installation 
 
-1. To use `urldownloader` create a [Conda environment](https://anaconda.org/)
+1. To use `urldownloader` create a [Conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 
 2. Open Anaconda Prompt and **Change directory** / Navigate to location of **urldownloader** directory
