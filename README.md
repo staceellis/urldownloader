@@ -9,7 +9,7 @@ url_downloader
 
 ### Windows installation 
 
-1. To use `url downloader`, you should create a [Conda environment](https://anaconda.org/). or venv
+1. To use `url downloader`, you should create a [Conda environment](https://anaconda.org/)
 
 
 2. Open Anaconda Prompt and **Change directory** / Navigate to location of **url downloader** directory
