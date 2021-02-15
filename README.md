@@ -34,7 +34,7 @@ urldownloader
 	```commandline
 	python CLI.py [DESTINATION] [.CSV]
 	```
-	e.g
+	e.g.
 	```commandline
 	python CLI.py "C:\Users\user\Desktop\Images" "C:\Users\user\Desktop\URLs.csv"
 
